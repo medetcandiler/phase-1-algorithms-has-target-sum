@@ -12,6 +12,8 @@ function hasTargetSum(array, target) {
 
 /* 
   Write the Big O time complexity of your function here
+  Time Complexity of the algoritm => O(n ^ 2);
+  
 */
 
 /* 
